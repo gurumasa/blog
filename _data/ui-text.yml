@@ -1395,7 +1395,54 @@ hi: &DEFAULT_HI
   back_to_top                : "शीर्ष पर वापस"
 hi-IN:
   <<: *DEFAULT_HI
-  
+
+# Finnish
+# -----------------
+fi: &DEFAULT_FI
+  page                       : "Sivu"
+  pagination_previous        : "Edellinen"
+  pagination_next            : "Seuraava"
+  breadcrumb_home_label      : "Etusivu"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Valikko"
+  search_label               : "Haku"
+  toc_label                  : "Tällä sivulla"
+  ext_link_label             : "Suora linkki"
+  less_than                  : "vähemmämn kuin"
+  minute_read                : "minuuttia lukea"
+  share_on_label             : "Jaa"
+  meta_label                 :
+  tags_label                 : "Tunnukset:"
+  categories_label           : "Kategoriat:"
+  date_label                 : "Päivitetty:"
+  comments_label             : "Jätä kommentti"
+  comments_title             : "Kommentit"
+  more_label                 : "Lue lisää"
+  related_label              : "Pitäisit myös näistä"
+  follow_label               : "Seuraa:"
+  feed_label                 : "Syöte"
+  powered_by                 : "Käy"
+  website_label              : "Nettisivu"
+  email_label                : "Sähköposti"
+  recent_posts               : "Uusimmat postaukset"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Your email address will not be published. Required fields are marked"
+  comment_form_comment_label : "Comment"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "Name"
+  comment_form_email_label   : "Email address"
+  comment_form_website_label : "Website (optional)"
+  comment_btn_submit         : "Submit comment"
+  comment_btn_submitted      : "Submitted"
+  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
+  loading_label              : "Loading..."
+  search_placeholder_text    : "Enter your search term..."
+  results_found              : "Result(s) found"
+  back_to_top                : "Back to top"
+fi-FI:
+  <<: *DEFAULT_FI
+
 # Another locale
 # --------------
 #
