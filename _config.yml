@@ -19,7 +19,7 @@ locale                   : "fi-FI"
 title                    : "Joni-Matti Koskinen"
 title_separator          : "-"
 name                     : "Joni-Matti Koskinen"
-description              : "An amazing website"
+description              : "Ajatuksia ja huomioita ympäröivästä maailmasta ja vähän kauempaa."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Joni-Matti Koskinen"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Ehkä olin, ehkä en."
-  location         : "Jossain Euroopassa"
-  email            :
+  bio              : "Sähköinsinööri, joka opiskelee politiikkatieteitä ja kansainvälistä oikeutta. Jonkinasteinen aktivisti, mutta selkeästi rauhan ystävä. Pitää kirjoittamisesta, lukemisesta ja maalaamisesta."
+  location         :
+  email            : "your.name@email.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:your.name@email.com
+      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -221,7 +221,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:
 
 
 # Plugins (previously gems:)
