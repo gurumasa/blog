@@ -1,11 +1,15 @@
 # main links
 main:
+  - title: "Etusivu"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Arkisto"
+    url: /arkisto/
+  - title: "Aiheet"
+    url: /aiheet/
   - title: "Kirjoitukset"
-    url: /kirjoitukset
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
+    url: /kirjoitukset/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
