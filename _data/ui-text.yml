@@ -1414,7 +1414,7 @@ fi: &DEFAULT_FI
   meta_label                 :
   tags_label                 : "Tunnukset:"
   categories_label           : "Kategoriat:"
-  date_label                 : "Päivitetty:"
+  date_label                 : "Kirjoitettu:"
   comments_label             : "Jätä kommentti"
   comments_title             : "Kommentit"
   more_label                 : "Lue lisää"
@@ -1438,7 +1438,7 @@ fi: &DEFAULT_FI
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Ladataan..."
   search_placeholder_text    : "Syötä hakusana..."
-  results_found              : "Tuloksia ei löytynyt"
+  results_found              : "osumaa"
   back_to_top                : "Takaisin alkuun"
 fi-FI:
   <<: *DEFAULT_FI
