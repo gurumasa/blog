@@ -6,9 +6,9 @@ title: Kirjoituksiani
 
 excerpt: "Muualla julkaistuja kirjoituksiani."
 header:
-  overlay_image: /assets/images/otsikko2.jpg
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
-  caption: "**Rákóczi út**"
+  overlay_image: /assets/images/header6.jpg
+  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+  caption: "**[Tulenkantajat - L.K. - Meän # 1](https://www.youtube.com/watch?v=fprk3gPk-UI)**"
 intro:
     - excerpt: '*“Ihmiselle kaikkein tärkein maailmassa on dägä.“* – M.A. Numminen'
 ---

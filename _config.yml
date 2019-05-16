@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Sähköinsinööri, joka opiskelee politiikkatieteitä ja kansainvälistä oikeutta. Jonkinasteinen aktivisti, mutta selkeästi rauhan ystävä. Pitää muun muassa kirjoittamisesta, lukemisesta ja maalaamisesta."
   location         :
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -292,4 +292,4 @@ defaults:
       read_time: # true
       comments: # true
       share: true
-      related: true
+      related: # true
