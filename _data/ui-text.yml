@@ -1408,7 +1408,7 @@ fi: &DEFAULT_FI
   search_label               : "Haku"
   toc_label                  : "Tällä sivulla"
   ext_link_label             : "Suora linkki"
-  less_than                  : "vähemmämn kuin"
+  less_than                  : "vähemmän kuin"
   minute_read                : "minuuttia lukea"
   share_on_label             : "Jaa"
   meta_label                 :
