@@ -2,7 +2,7 @@
 main:
   - title: "Etusivu"
     url: /
-  - title: "Blog"
+  - title: "Blogi"
     url: /blog/
   - title: "Arkisto"
     url: /arkisto/
