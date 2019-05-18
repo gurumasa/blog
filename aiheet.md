@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /aiheet/
+permalink: /categories/
 author_profile: true
 
 title: Aiheet

@@ -7,7 +7,7 @@ main:
   - title: "Arkisto"
     url: /arkisto/
   - title: "Aiheet"
-    url: /aiheet/
+    url: /categories/
   - title: "Kirjoituksiani"
     url: /kirjoitukset/
   - # title: "Haku"
