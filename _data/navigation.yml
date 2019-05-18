@@ -10,5 +10,5 @@ main:
     url: /categories/
   - title: "Kirjoituksiani"
     url: /kirjoitukset/
-  - # title: "Haku"
-    # url: /haku/
+  - title: "🔍"
+    url: /haku/
