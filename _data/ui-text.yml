@@ -1421,7 +1421,7 @@ fi: &DEFAULT_FI
   related_label              : "Pitäisit myös näistä"
   follow_label               : "Seuraa:"
   feed_label                 : "RSS"
-  powered_by                 : "Koneen alla puskuttavat:"
+  powered_by                 : "Konehuoneessa puskuttavat:"
   website_label              : "Nettisivu"
   email_label                : "Sähköposti"
   recent_posts               : "Uusimmat blogikirjoitukset"
