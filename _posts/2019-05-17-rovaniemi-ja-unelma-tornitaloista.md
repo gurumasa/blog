@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title:  "Rovaniemi ja unelma tornitaloista"
 
 categories: [rovaniemi, kemi, budapest, kaupunkisuunnittelu, arkkitehtuuri]
