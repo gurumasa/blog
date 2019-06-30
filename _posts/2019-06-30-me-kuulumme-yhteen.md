@@ -49,8 +49,8 @@ Mielestäni on kuitenkin myös ilman syvällisempää uskonnollisuutta mahdollis
 
 Kenties ihmiseloon lopulta kuuluu kärsimyksien kanssa eläminen, koska ihminen ei voi kontrolloida kaikkea tai vaikuttaa kaikkeen. Aivan kuten Pilinszky on todennut, ettei suurinta osaa elämän asioista ole ratkaistavissa; on vain oltava armollinen. Tämä ei kuitenkaan tarkoita, etteikö elämässä ja ympärillä oleviin ongelmiin tulisi yrittää miilään tavalla vaikuttaa tai yrittää korjata asioita, koska maailma on muuttuva ja se muutos alkaa meistä. Kärsimysten ja vaikeuksien kohtaaminen kehittää meitä ihmisinä ja me voimme armollisina antaa anteeksi oman (sekä muiden) avuttomuutemme ja keskeneräisyytemme. Tietenkin unohtamatta, että yhteyttä janoavina me voimme kehittää itseämme kanssaelämällä muiden kanssa.
 
-Ehkäpä on olemassa suora totuus, jota emme voi kestää tällä puolen – kuten Pilinszky on todennut. Pelottavatkin asiat voivat kuitenkin hänen mielestään olla lempeitä, kuten hänelle tällainen asia oli esimerkiksi evankeliumi. Raittilan runojen tapaan meidän tulisi kuitenkin elää kulkijoina, jotka ovat kuuntelijoita ja eläytyjiä, jotka luottavat elämykseen – eivät takerru dogmeihin.
+Ehkäpä on olemassa suora totuus, jota emme voi kestää tällä puolen – kuten Pilinszky on todennut. Pelottavatkin asiat voivat kuitenkin hänen mielestään olla lempeitä, kuten hänelle tällainen asia oli esimerkiksi evankeliumi. Raittilan runojen tapaan meidän tulisi kuitenkin elää kulkijoina, jotka ovat kuuntelijoita ja eläytyjiä, jotka luottavat elämykseen – eivätkä takerru dogmeihin.
 
-Korostakaamme Raittilan tavoin keskeneräisyyttäämme ja pysykäämme jatkuvasti liikkeellä.
+Korostakaamme Raittilan tavoin keskeneräisyyttäämme ja pysykäämme jatkuvasti liikkeellä. Auttakaamme toisiamme ja toivokaamme, että heillä olisi voimaa ja rohkeutta kohdata elämän vastoinkäymisiä.
 
 Kuvat: *Auringonnousu*, [Guillaume Piolle](https://commons.wikimedia.org/wiki/File:Soleil_couchant_sur_le_Vercors.jpg) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.fi)). *Jànos Pilinszky*, public domain.
