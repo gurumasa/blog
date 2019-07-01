@@ -53,4 +53,13 @@ Ehkäpä on olemassa suora totuus, jota emme voi kestää tällä puolen – kut
 
 Korostakaamme Raittilan tavoin keskeneräisyyttäämme ja pysykäämme jatkuvasti liikkeellä. Auttakaamme toisiamme ja toivokaamme, että heillä olisi voimaa ja rohkeutta kohdata elämän vastoinkäymisiä.
 
-Kuvat: *Auringonnousu*, [Guillaume Piolle](https://commons.wikimedia.org/wiki/File:Soleil_couchant_sur_le_Vercors.jpg) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.fi)). *Jànos Pilinszky*, public domain.
+**Kuvat ja lainaukset**
+
+Kuvat:
+- *Auringonnousu*, [Guillaume Piolle](https://commons.wikimedia.org/wiki/File:Soleil_couchant_sur_le_Vercors.jpg) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.fi)).
+- *Jànos Pilinszky*, public domain.
+
+Lainaukset:
+- *Halonen, Kaisa* (2011) Innostaja Anna-Maija Raittila (https://www.kirkkojakaupunki.fi/-/innostaja-anna-maija-raittila). Haettu 30.6.2019.
+- *Kiuru, Hannu* (2016) Anna-Maija Raittila: Vain unelmat toteutuvat, eivät suunnitelmat! (https://www.kotimaa24.fi/blogit/anna-maija-raittila-vain-unelmat-toteutuvat-eivat-suunnitelmat/). Haettu 30.6.2019.
+- *Pilinszky, János* (1979) Unkarilaisia runoja, *Anna-Maija Raittila* (toim.). Pieksämäki: Kirjapaja.
