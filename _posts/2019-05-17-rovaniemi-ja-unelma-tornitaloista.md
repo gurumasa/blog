@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title:  "Rovaniemi ja unelma tornitaloista"
 
-categories: [rovaniemi, kemi, budapest, kaupunkisuunnittelu, arkkitehtuuri]
+categories: [Rovaniemi, Kemi, Budapest, kaupunkisuunnittelu, arkkitehtuuri]
 ---
 
 **Kun et halua sellaisia edes entisenä kemiläisenä ja luonnollakin on mitä antaa.**

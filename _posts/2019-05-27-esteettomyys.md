@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title:  "Esteettömyyskävelyllä"
 
-categories: [rovaniemi, esteettömyys, vammaisuus, kaupunkisuunnittelu]
+categories: [Rovaniemi, esteettömyys, vammaisuus, kaupunkisuunnittelu]
 
 gallery:
   - url: https://i.imgur.com/aejWen6.jpg
