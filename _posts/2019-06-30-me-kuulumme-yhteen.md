@@ -1,8 +1,9 @@
 ---
 layout: single
 classes: wide
-title:  "Me kuulumme yhteen; me avuttomat ja keskeneräiset"
+comments: true
 
+title:  "Me kuulumme yhteen; me avuttomat ja keskeneräiset"
 categories: [uskonto, runous]
 ---
 
