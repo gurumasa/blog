@@ -6,12 +6,12 @@ title:  "Esteettömyyskävelyllä"
 categories: [Rovaniemi, esteettömyys, vammaisuus, kaupunkisuunnittelu]
 
 gallery:
-  - url: https://i.imgur.com/aejWen6.jpg
-    image_path: https://i.imgur.com/aejWen6.jpg
+  - url: https://i.imgur.com/HOZsRoX.jpg
+    image_path: https://i.imgur.com/HOZsRoX.jpg
     alt: "Hyvin korkea kivijalka ja rappuset tekevät esteettömän pääsyn mahdottomaksi liikekiinteistöön Koskikadulla."
     title: "Hyvin korkea kivijalka ja rappuset tekevät esteettömän pääsyn mahdottomaksi Koskikadulla."
-  - url: https://i.imgur.com/fWQl1De.jpg
-    image_path: https://i.imgur.com/fWQl1De.jpg
+  - url: https://i.imgur.com/TzFGl7n.jpg
+    image_path: https://i.imgur.com/TzFGl7n.jpg
     alt: "Este ja rampin puute liikekiinteistön ulko-ovella Rovakadulla."
     title: "Este ja rampin puute liikekiinteistön ulko-ovella Rovakadulla."
 
