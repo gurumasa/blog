@@ -1412,7 +1412,7 @@ fi: &DEFAULT_FI
   minute_read                : "minuuttia lukea"
   share_on_label             : "Jaa"
   meta_label                 :
-  tags_label                 : "Tunnukset:"
+  tags_label                 : "Tunnisteet:"
   categories_label           : "Kategoriat:"
   date_label                 : "Kirjoitettu:"
   comments_label             : "Jätä kommentti"
