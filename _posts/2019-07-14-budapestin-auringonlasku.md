@@ -50,7 +50,7 @@ Tappohelteet eivät ole kadonneet mihinkään; niitä nimenomaan tulee olemaan e
 Itse elokuvan synopsis on lyhyesti Finnkinon mukaan seuraavanlainen:
 >"Vuonna 1913 nuori Irisz Leiter (Juli Jakab) matkustaa kohti Budapestia työskennelläkseen hatuntekijänä kuuluisassa hattukaupassa, joka kuului hänen edesmenneille vanhemmilleen. Uusi omistaja, Oszkár Brill (Vlad Ivanov) käännyttää hänet kuitenkin pois samalla, kun hattukaupassa tehdään valmisteluja äärimmäisen tärkeää vierasta varten. Yllättäen Irisz kohtaa miehen, joka etsii erästä Kálmán Leiteria. Irisz kieltäytyy lähtemästä kaupungista ja päättää seurata Kálmánin jalanjälkiä, jotka ovat hänen ainoa yhteytensä menneeseen. Nuoren naisen uteliaisuus johdattaa hänet läpi Budapestin synkkien ja sekasortoisten katujen, joiden varrella ainoat valot palavat enää Leiterin hattukaupassa – sivilisaation tuhon lähestyessä."
 
-**Nemesis Kubrickin jalanjäljillä**
+**Nemes Kubrickin jalanjäljillä**
 
 *Budapestin auringonlasku* on historiallinen draama, joka muuttuu lopulta jännityselokuvaksi, jossa on nähtävissä muun muassa **Stanley Kubrickin** vaikutus Nemesin työhön. Elokuva on saanut niin kehuja kuin kritiikkiä, ja sitä on odotetusti verrattu Nemesin vuonna 2015 ensi-illan saaneeseen *Son of Saul* -elokuvaan (unk. *Saul fia*). Nemesin ensimmäinen pitkä elokuva palkittiin parhaan vieraskielisen elokuvan Oscar-palkinnolla vuonna 2016, mutta *Budapestin auringonlaskua* ei Unkarin ehdokkaana valittu vuoden 2019 Oscareiden vieraskielisten elokuvien sarjan viiden ehdokkaan joukkoon.
 
