@@ -16,8 +16,8 @@ gallery:
     title: "Maisema Bérc utcalla vuonna 1912. (Kuva: Fortepan / Schoch Frigyes)"
   - url: https://i.imgur.com/CamZHJF.jpg
     image_path: https://i.imgur.com/CamZHJF.jpg
-    alt: "Vuonna 1914 esiteltiin parlamenttitalon edessä venäläisiltä sotasaaliinaa saatuja 16:ta tykkiä. Taustalla rakennus, jossa aikansa moderni lämmitysjärjestelmä lämmitti parlamenttia höyrykattiloilla. Lämmitysjärjestelmä toimi vielä tänäkin päivänä. (Kuva: Fortapan / Berecz)"
-    title: "Vuonna 1914 esiteltiin parlamenttitalon edessä venäläisiltä sotasaaliinaa saatuja 16:ta tykkiä. Taustalla rakennus, jossa aikansa moderni lämmitysjärjestelmä lämmitti parlamenttia höyrykattiloilla. Lämmitysjärjestelmä toimi vielä tänäkin päivänä. (Kuva: Fortapan / Berecz)"
+    alt: "Vuonna 1914 esiteltiin parlamenttitalon edessä venäläisiltä sotasaaliinaa saatuja 16:ta tykkiä. Taustalla rakennus, jossa aikansa moderni lämmitysjärjestelmä lämmitti parlamenttia höyrykattiloilla. Lämmitysjärjestelmä toimii vielä tänäkin päivänä. (Kuva: Fortapan / Berecz)"
+    title: "Vuonna 1914 esiteltiin parlamenttitalon edessä venäläisiltä sotasaaliinaa saatuja 16:ta tykkiä. Taustalla rakennus, jossa aikansa moderni lämmitysjärjestelmä lämmitti parlamenttia höyrykattiloilla. Lämmitysjärjestelmä toimii vielä tänäkin päivänä. (Kuva: Fortapan / Berecz)"
 
 gallery2:
   - url: https://i.imgur.com/eBsfr27.jpg
@@ -63,7 +63,7 @@ Itse en ole pystynyt yhtymään kritiikkiin, vaan mielestäni elokuva oli jänni
 
 Kävin läpi Fortepan-sivuston kuva-arkistoa ja valitsin sieltä joitakin valokuvia 1910-luvun alusta, joista on mahdollista nähdä ja aistia tuon ajan arkielämää. Niissä on nähtävissä eläviä katuja täynnä ihmisiä, jotka kävelevät kesähelteessä itseään suojaten hatuin ja sateenvarjoin. Budapest myös edustaa teknologian kehitystä, joka on nähtävissä joukkoliikenteen lisäksi muun muassa parlamenttitalon modernissa lämmitys- ja jäähdytysjärjestelmässä. Lähestyvää usvaa ei ole nähtävissä, mutta se alkaa jo lähestyä kuvassa, jossa ihmiset tarkastelevat parlamenttitalon edustalla esillä olevia tykkejä, jotka on saatu sotasaaliiksi venäläisiltä. Sotaonni näyttää hyvältä, mutta on pian kääntymässä nöyryyttäväksi tappioksi.
 
-{% include gallery caption="**1.** Elämää Szarvas térillä, lähellä vanhaa Tabán keskustaa. Taustalla nimen mukaisesti Szarvas-talo, joka on nähnyt Tabán elämää noin 1700-luvulta lähtien. Kuvaushetkellä vuonna 1912 talossa toimi kahvila, nykyisin ravintola. (Kuva: Fortepan / Saly Noémi) **2.** Maisema Bérc utcalla vuonna 1912. (Kuva: Fortepan / Schoch Frigyes) **3.** Vuonna 1914 esiteltiin parlamenttitalon edessä venäläisiltä sotasaaliinaa saatuja 16:ta tykkiä. Taustalla rakennus, jossa aikansa moderni lämmitysjärjestelmä lämmitti parlamenttia höyrykattiloilla. Lämmitysjärjestelmä toimi vielä tänäkin päivänä. (Kuva: Fortapan / Berecz)"%}
+{% include gallery caption="**1.** Elämää Szarvas térillä, lähellä vanhaa Tabán keskustaa. Taustalla nimen mukaisesti Szarvas-talo, joka on nähnyt Tabán elämää noin 1700-luvulta lähtien. Kuvaushetkellä vuonna 1912 talossa toimi kahvila, nykyisin ravintola. (Kuva: Fortepan / Saly Noémi) **2.** Maisema Bérc utcalla vuonna 1912. (Kuva: Fortepan / Schoch Frigyes) **3.** Vuonna 1914 esiteltiin parlamenttitalon edessä venäläisiltä sotasaaliinaa saatuja 16:ta tykkiä. Taustalla rakennus, jossa aikansa moderni lämmitysjärjestelmä lämmitti parlamenttia höyrykattiloilla. Lämmitysjärjestelmä toimii vielä tänäkin päivänä. (Kuva: Fortapan / Berecz)"%}
 
 **Elämä usvassa**
 
