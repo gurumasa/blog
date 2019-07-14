@@ -5,6 +5,9 @@ title:  "*Budapestin auringonlasku* -elokuva ja nouseva usva"
 
 categories: [elokuvat, historia, Budapest, Unkari]
 
+header:
+  og_image: https://i.imgur.com/KeipMTt.jpg
+
 gallery:
   - url: https://i.imgur.com/h8Vq48i.jpg
     image_path: https://i.imgur.com/h8Vq48i.jpg
