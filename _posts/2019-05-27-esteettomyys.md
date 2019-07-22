@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+
 title:  "Esteettömyyskävelyllä"
 
 categories: [Rovaniemi, esteettömyys, vammaisuus, kaupunkisuunnittelu]

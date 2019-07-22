@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+
 title:  "Rovaniemi ja unelma tornitaloista"
 
 categories: [Rovaniemi, Kemi, Budapest, kaupunkisuunnittelu, arkkitehtuuri]

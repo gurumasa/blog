@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+
 title:  "*Budapestin auringonlasku* -elokuva ja nouseva usva"
 
 categories: [elokuvat, historia, Budapest, Unkari]
@@ -42,7 +43,7 @@ gallery2:
 Ei sisällä suurempia juonipaljastuksia elokuvasta – ainoastaan sen, mitä elokuvasta on kerrottu etukäteen tai ohjaajan tyylistä ja esikuvista on pääteltävissä tai odotettavissa.
 {: .notice--success}
 
-![image-left](https://i.imgur.com/KeipMTt.jpg){: .align-right}
+![image-right](https://i.imgur.com/KeipMTt.jpg){: .align-right}
 Eurooppaa paahtava ja kärjistävä helle ei ole millään kulkeutunut Suomeen, mutta sellaisen voi jossain määrin onneksi tuntea uppoutuessaan elokuvien maailmaan. Tällainen tunne tuli itselleni, kun kävin katsomassa elokuvateatterissa **László Nemesin** viime vuonna ensi-illan saaneen *Budapestin auringonlasku* -elokuvan (unk. *Napszállta*). Elokuvan alussa varoitellaan tappohelteistä, joka välittyy katsojalle valkokankaalta – kiitos elokuvan värimaailman ja hahmojen vaatetuksen. Elokuvan alku herätti itselleni vahvasti tuttuja tuntemuksia, eikä eläytyminen ollut vaikeaa, koska Budapestissa oli juuri tuolloin tappohelteitä, kun saavuin sinne ensimmäistä kertaa.
 
 Tappohelteet eivät ole kadonneet mihinkään; niitä nimenomaan tulee olemaan entistä enemmän. Katukuvassa on kuitenkin havaittavissa ihmisten muuttunut pukeutuminen – jota eräs ystäväni taannoin kommentoi ja kuvaili adjektiivilla: "rumia". Kaupungissa itsessään on hyvin paljon jäljellä tuon ajan Budapestin ja Unkarin henkeä, jota on mahdollista aistia – niin hyvässä kuin pahassa.
