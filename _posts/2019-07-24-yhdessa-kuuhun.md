@@ -20,7 +20,7 @@ Tunnetuin "mitä jos?" -ajatus on varmasti salaliittoteoria, jonka mukaan avaruu
 
 Vähemmälle huomiolle on kuitenkin jäänyt ajatus siitä, että kylmästä sodasta huolimatta ensimmäinen kuukävely olisi toteutunut Yhdysvaltojen ja Neuvostoliiton yhteisellä avaruuslennolla. Voidaan vain spekuloida, että olisiko yhteistyö ollut mahdollista ja onnistunut, koska sen toteutumisen esteenä oli kuitenkin mainittu kylmä sota – vaikkakin kylmä sota tarjosi myös syitä yhteistyölle. Ehdotus oli kuitenkin mielenkiintoinen, joka ennestään korostaa ehdotuksen tehneen Yhdysvaltain presidentin **John F. Kennedyn** omalaatuisuutta poliittisena toimijana, jonka asiosta on myös Yhdysvaltain avaruusohjelman suunnaksi otettiin Kuu.
 
-Entä mikä on tilanne nyt Neuvostoliiton "romahtamisen" jälkeen? Onko kysymys ja haaveilu yhteisistä avaruuslennoista vielä aiheellinen?
+Entä mikä on tilanne nyt Neuvostoliiton "romahtamisen" jälkeen? Onko kysymys ja haaveilu uusista, mutta tällä kertaa yhteisistä, kuukävelyistä ja avaruustehtävistä vielä aiheellinen?
 
 **Johdossa jossain, jäljessä toisaalla**
 
