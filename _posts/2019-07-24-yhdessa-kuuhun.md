@@ -63,7 +63,7 @@ Taustalla vaikuttavat kansainväliset voimasuhteet ja Kiinan kiihtyvä edistymin
 
 Sitä odotellessa, että mitä tulevaisuus tuo mukanaan, kun ihmiskunta todella ryhtyy asuttamaan avaruutta ja muita taivaankappaleita. Euroopan avaruusjärjestö onneksi tekee yhteistyötä niin lännen kuin myös idän kanssa, mutta Kiina on korvaamassa Neuvostoliiton Yhdysvaltojen vastaparina. Voisivatko Yhdysvallat ja Kiina kuitenkin löytää toisensa tulevaisuudessa avaruusyhteistyön merkeissä; muista kiistakysymyksistä ja kilpailusta huolimatta? Voimme vain haaveilla, että miten sen toteutumisen mahdollisuuksiin olisi vaikuttanut Yhdysvaltojen ja Neuvostoliiton onnistunut yhteinen kuulento.
 
-[Ihmiskunnan kulttuuri matkusti](https://voyager.jpl.nasa.gov/golden-record/) Aurinkokunnan ulkopuolelle jo vuosia sitten. Me itse tulemme vielä perässä – toivottavasti yhteisenä ihmiskuntana ja rauhan nimissä.
+[Näytepala ihmiskunnan kulttuurista](https://voyager.jpl.nasa.gov/golden-record/) on matkustanut Aurinkokunnan ulkopuolelle jo vuosia sitten. Me itse tulemme vielä perässä – toivottavasti yhteisenä ihmiskuntana ja rauhan nimissä.
 
 {% include video id="ONxp_lLXWGk" provider="youtube" %}
 
