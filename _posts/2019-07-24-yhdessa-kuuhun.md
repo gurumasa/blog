@@ -65,7 +65,7 @@ Sitä odotellessa, että mitä tulevaisuus tuo mukanaan, kun ihmiskunta todella 
 
 [Ihmiskunnan kulttuuri matkusti](https://voyager.jpl.nasa.gov/golden-record/) Aurinkokunnan ulkopuolelle jo vuosia sitten. Me itse tulemme vielä perässä – toivottavasti yhteisenä ihmiskuntana ja rauhan nimissä.
 
-{% include video id="3U52sP25ynE" provider="youtube" %}
+{% include video id="ONxp_lLXWGk" provider="youtube" %}
 
 **Kuvat**
 
