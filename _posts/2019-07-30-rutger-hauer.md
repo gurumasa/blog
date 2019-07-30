@@ -58,3 +58,8 @@ Toki elokuvassa myös käsitellään empatiaa ja yleisö voi tuntea empatiaa sen
 Kiitos Rutger Hauer – nähdään työsi parissa.
 
 {% include video id="LgcAbJ_cuQI" provider="youtube" %}
+
+**Kuvat**
+
+- *Rutger Hauer*, TIZIANA FABI/AFP/Getty Images.
+- *Replikantti Roy Batty elokuvassa Blade Runner*, Warner Bros. Ent.
