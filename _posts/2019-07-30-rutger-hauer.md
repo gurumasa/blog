@@ -16,7 +16,7 @@ header:
 ![Rutger Hauer](/assets/images/kuvat/hauer-2.jpg){: .align-left}
 *Blade Runner* -vuosi sai osakseen surullisen uutisen, kun elokuvassa Roy Batty nimistä replikanttia näytelly alankomaalainen näyttelijä **Rutger Hauer** kuoli 75 vuoden iässä. Kyseinen rooli on kiistatta tunnetuin Hauerin rooleista, jota myös pidetään yhtenä elokuvahistorian parhaimmista antagonisteista. Hyvin monenlaisia rooleja tehnyt Hauer muistetaan juurikin pahiksen rooleista.
 
-Vaikkei *Blade Runner* olisi nähnytkään, on varmasti nähnyt kohtauksen, jossa (Hauer osittain improvisoiden) Batty toteaa ennen kuolemaansa viimeiset kauniit ja runolliset sanansa muistojen katoavaisuudesta **Vangeliksen** musiikin soidessa taustalla. Lähestyvän kuolemansa tiedostava ja hyväksyvä replikantti on juuri pelastanut elokuvan päähenkilön Rick Deckardin hengen, joka saa todistaa Battyn viimeiset sanan ja kuoleman.
+Vaikkei *Blade Runner* olisi nähnytkään, on varmasti nähnyt kohtauksen, jossa (Hauer osittain improvisoiden) Batty toteaa ennen kuolemaansa viimeiset kauniit ja runolliset sanansa muistojen katoavaisuudesta **Vangeliksen** [*"Tears in Rain"*](https://www.youtube.com/watch?v=8r7RWTaGezc) soidessa taustalla. Lähestyvän kuolemansa tiedostava ja hyväksyvä replikantti on juuri pelastanut elokuvan päähenkilön Rick Deckardin hengen, joka saa todistaa Battyn viimeiset sanan ja kuoleman.
 
 Surullinen sattuma on se, että elokuvassa Batty kuolee marraskuussa 2019, kun Hauerin maanpäällisen vaelluksen päättymispäiväksi valkokankaan ulkopuolella oli määrätty 19. heinäkuuta 2019.
 
@@ -43,7 +43,7 @@ Elokuvalla on suurimmat yhtäläisyydet **Philip K. Dickin** *Do Androids Dream 
 
 Valitettavasti elokuva ja romaani eroavat kuitenkin toisistaan sisällöllisesti. Eräiden Dickin kirjojen ystävien mielestä elokuvasta puuttuu kirjan olennainen viesti kokonaan: esimerkiksi elokuvassa empatian rooli teemana jää pienemmäksi kuin romaanissa, jossa se on tarinan kenties tärkein teema. Tästä kertoo parhaiten se seikka, että [romaanissa sana empatia mainitaan 9 634 kertaa](https://www.shmoop.com/do-androids-dream-of-electric-sheep/compassion-forgiveness-theme.html).
 
-**Hauer, katsojat ja empatia**
+**Katsojat ja empatia**
 
 >"I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die."
 >
