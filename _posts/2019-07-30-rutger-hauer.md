@@ -20,6 +20,8 @@ Vaikkei *Blade Runner* olisi nähnytkään, on varmasti nähnyt kohtauksen, joss
 
 Surullinen sattuma on se, että elokuvassa Batty kuolee marraskuussa 2019, kun Hauerin maanpäällisen vaelluksen päättymispäiväksi valkokankaan ulkopuolella oli määrätty 19. heinäkuuta 2019.
 
+Tämä kirjoitus on minun kunnianosoitus näyttelijälle, jonka ikoninen rooli opetti minulle jotain empatiasta – sekä oli korvaamaton osa elokuvaa, joka näytti minulle tulevaisuuden ja on ollut vuosien ajan lähde inspiraatioille.
+
 **Kuolematon**
 
 Maanpäällisen vaelluksen päättymisestä huolimatta Hauer tulee olemaan kuolematon – kiitos hänen roolisuoritusten. Itselleni Hauer kuuluu mielenkiintoisten näyttelijöiden joukkoon, koska hän on näytellyt Draculaa, joka on mielestäni yksi parhaimmista fiktiivisistä hahmoista. Kyseisen roolin näyttelemiseen näyttelijältä tarvitaan aina sitä jotain. Hauer näytteli Draculaa **Patrick Lussierin** Dracula-sarjan kolmannessa osassa nimeltä *Dracula III: Legacy*, jonka erikoisuutena on Draculan ja Judas Iskariotin yhdistäminen: Judaksesta on tullut vampyyri, koska hän petti Jeesuksen. Myöhemmin hän näytteli myös Abraham Van Helsingin roolia elokuvassa *Dracula 3D*, joten hän kuuluu siihen pieneen joukkoon näyttelijöitä, jotka ovat näytelleet molempia ikonisia rooleja.
