@@ -7,7 +7,7 @@ title:  "Rutger Hauer 1944 – 2019"
 categories: [elokuvat]
 
 header:
-  og_image: /assets/images/kuvat/kuu-x.jpg
+  og_image: /assets/images/kuvat/hauer-x.jpg
 
 ---
 
