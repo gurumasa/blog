@@ -20,7 +20,7 @@ Vaikkei *Blade Runner* olisi nähnytkään, on varmasti nähnyt kohtauksen, joss
 
 Surullinen sattuma on se, että elokuvassa Batty kuolee marraskuussa 2019, kun Hauerin maanpäällisen vaelluksen päättymispäiväksi valkokankaan ulkopuolella oli määrätty 19. heinäkuuta 2019.
 
-Tämä kirjoitus on minun kunnianosoitus näyttelijälle, jonka ikoninen rooli opetti minulle jotain empatiasta – sekä oli korvaamaton osa elokuvaa, joka näytti minulle tulevaisuuden ja on ollut vuosien ajan lähde inspiraatioille.
+Tämä kirjoitus on minun kunnianosoitus näyttelijälle, jonka ikoninen rooli opetti minulle jotain empatiasta ja ihmisyydestä – sekä oli korvaamaton osa elokuvaa, joka näytti minulle tulevaisuuden ja on ollut vuosien ajan lähde inspiraatioille.
 
 **Kuolematon**
 
