@@ -53,7 +53,7 @@ Valitettavasti elokuva ja romaani eroavat kuitenkin toisistaan sisällöllisesti
 
 Toki elokuvassa myös käsitellään empatiaa ja yleisö voi tuntea empatiaa sen roolihahmoja kohtaan – erityisesti Battya kohtaan, jonka väkivaltaisten tekojen takana ovat tunteet ja lähestyvä kuolema. Viimeistään elokuvan lopussa katsoja voi tuntea sympatiaa tai sääliä kuolevaa Battya kohtaan – ellei jopa empatiaa. Sen takia hahmoa on vaikea käsitellä täysin pahiksena. Langenneesta enkelistä on tulossa tunteiden kautta empatiaan kykenevä inhimillinen olento, joka lopulta hyväksyy lähestyvän kuolemansa tuntien empatiaa häneen peräänsä lähetettyä Deckardia kohtaan, jonka tehtävänä on ollut tappaa Batty ja hänen kumppaninsa.
 
-*Blade Runnerin* tasoista metafyysista elokuvaa ja sen teemoja olisi vaikea nähdä ja tulkita, jos Battyn roolissa ei olisi ollut Hauerin kaltaista näyttelijää, joka näyttelee kohti inhimillisyyttä kulkevaa replikanttia niin voimakkaasti ja elävästi. Siihen vielä pisteenä iin päälle elokuvan lopussa vuorosanojen improvisointi ja itsensä antaminen osaksi Royta, joka on tehnyt hahmosta ja elokuvasta kuolemattoman, joka on yhä edelleen ja tulee olemaan entistä ajankohtaisempi elokuva.
+*Blade Runnerin* tasoista metafyysista elokuvaa ja sen teemoja olisi vaikea nähdä ja tulkita, jos Battyn roolissa ei olisi ollut Hauerin kaltaista näyttelijää, joka näyttelee kohti inhimillisyyttä kulkevaa replikanttia niin voimakkaasti ja elävästi. Siihen vielä pisteenä iin päälle elokuvan lopussa vuorosanojen improvisointi ja itsensä antaminen osaksi Royta, joka on tehnyt hahmosta ja elokuvasta kuolemattoman – joka on yhä edelleen ja tulee olemaan entistä enemmän ajankohtaisempi elokuva teemoiltaan.
 
 Kiitos Rutger Hauer – nähdään työsi parissa.
 
