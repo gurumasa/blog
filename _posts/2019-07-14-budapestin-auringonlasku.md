@@ -7,33 +7,33 @@ title:  "*Budapestin auringonlasku* -elokuva ja nouseva usva"
 categories: [elokuvat, historia, Budapest, Unkari]
 
 header:
-  og_image: https://i.imgur.com/KeipMTt.jpg
+  og_image: /assets/images/kuvat/usva-1.jpg
 
 gallery:
-  - url: https://i.imgur.com/h8Vq48i.jpg
-    image_path: https://i.imgur.com/h8Vq48i.jpg
+  - url: /assets/images/kuvat/usva-3.jpg
+    image_path: /assets/images/kuvat/usva-3.jpg
     alt: "Elämää Szarvas térillä, lähellä vanhaa Tabán keskustaa. Taustalla nimen mukaisesti Szarvas-talo, joka on nähnyt Tabán elämää noin 1700-luvulta lähtien. Kuvaushetkellä vuonna 1912 talossa toimi kahvila, nykyisin ravintola. (Kuva: Fortepan / Saly Noémi)"
     title: "Elämää Szarvas térillä, lähellä vanhaa Tabán keskustaa. Taustalla nimen mukaisesti Szarvas-talo, joka on nähnyt Tabán elämää noin 1700-luvulta lähtien. Kuvaushetkellä vuonna 1912 talossa toimi kahvila, nykyisin ravintola. (Kuva: Fortepan / Saly Noémi)"
-  - url: https://i.imgur.com/zycXxiq.jpg
-    image_path: https://i.imgur.com/zycXxiq.jpg
+  - url: /assets/images/kuvat/usva-4.jpg
+    image_path: /assets/images/kuvat/usva-4.jpg
     alt: "Maisema Bérc utcalla vuonna 1912. (Kuva: Fortepan / Schoch Frigyes)"
     title: "Maisema Bérc utcalla vuonna 1912. (Kuva: Fortepan / Schoch Frigyes)"
-  - url: https://i.imgur.com/CamZHJF.jpg
-    image_path: https://i.imgur.com/CamZHJF.jpg
+  - url: /assets/images/kuvat/usva-5.jpg
+    image_path: /assets/images/kuvat/usva-5.jpg
     alt: "Vuonna 1914 esiteltiin parlamenttitalon edessä venäläisiltä sotasaaliinaa saatuja 16:ta tykkiä. Taustalla rakennus, jossa aikansa moderni lämmitysjärjestelmä lämmitti parlamenttia höyrykattiloilla. Lämmitysjärjestelmä toimii vielä tänäkin päivänä. (Kuva: Fortapan / Berecz)"
     title: "Vuonna 1914 esiteltiin parlamenttitalon edessä venäläisiltä sotasaaliinaa saatuja 16:ta tykkiä. Taustalla rakennus, jossa aikansa moderni lämmitysjärjestelmä lämmitti parlamenttia höyrykattiloilla. Lämmitysjärjestelmä toimii vielä tänäkin päivänä. (Kuva: Fortapan / Berecz)"
 
 gallery2:
-  - url: https://i.imgur.com/eBsfr27.jpg
-    image_path: https://i.imgur.com/eBsfr27.jpg
+  - url: /assets/images/kuvat/usva-6.jpg
+    image_path: /assets/images/kuvat/usva-6.jpg
     alt: "Elämää juoksuhaudassa vuonna 1915. (Kuva: Fortapan / Komlós Péter)"
     title: "Elämää juoksuhaudassa vuonna 1915. (Kuva: Fortapan / Komlós Péter)"
-  - url: https://i.imgur.com/yD6020Q.jpg
-    image_path: https://i.imgur.com/yD6020Q.jpg
+  - url: /assets/images/kuvat/usva-7.jpg
+    image_path: /assets/images/kuvat/usva-7.jpg
     alt: "Leninin ja Karl Liebknechtin rintakuvat tervehtivät ohikulkijoita 1. toukokuuta 1919 Kígyó térillä (nyk. Ferenciek tere). Tynkä-Unkaria hallinnut Unkarin neuvostotasavalta oli pystössä vain 133 päivää. (Kuva: Fortapan / Schoch Frigyes)"
     title: "Leninin ja Karl Liebknechtin rintakuvat tervehtivät ohikulkijoita 1. toukokuuta 1919 Kígyó térillä (nyk. Ferenciek tere). Tynkä-Unkaria hallinnut Unkarin neuvostotasavalta oli pystössä vain 133 päivää. (Kuva: Fortapan / Schoch Frigyes)"
-  - url: https://i.imgur.com/05lyaiv.jpg
-    image_path: https://i.imgur.com/05lyaiv.jpg
+  - url: /assets/images/kuvat/usva-8.jpg
+    image_path: /assets/images/kuvat/usva-8.jpg
     alt: "Trianon-mielenosoitus Szent Gellért térillä 1920-luvulla. (Kuva: Fortapan / Album009)"
     title: "Trianon-mielenosoitus Szent Gellért térillä 1920-luvulla. (Kuva: Fortapan / Album009)"
 ---
@@ -43,7 +43,7 @@ gallery2:
 Ei sisällä suurempia juonipaljastuksia elokuvasta – ainoastaan sen, mitä elokuvasta on kerrottu etukäteen tai ohjaajan tyylistä ja esikuvista on pääteltävissä tai odotettavissa.
 {: .notice--success}
 
-![image-right](https://i.imgur.com/KeipMTt.jpg){: .align-right}
+![image-right](/assets/images/kuvat/usva-1.jpg){: .align-right}
 Eurooppaa paahtava ja kärjistävä helle ei ole millään kulkeutunut Suomeen, mutta sellaisen voi jossain määrin onneksi tuntea uppoutuessaan elokuvien maailmaan. Tällainen tunne tuli itselleni, kun kävin katsomassa elokuvateatterissa **László Nemesin** viime vuonna ensi-illan saaneen *Budapestin auringonlasku* -elokuvan (unk. *Napszállta*). Elokuvan alussa varoitellaan tappohelteistä, joka välittyy katsojalle valkokankaalta – kiitos elokuvan värimaailman ja hahmojen vaatetuksen. Elokuvan alku herätti itselleni vahvasti tuttuja tuntemuksia, eikä eläytyminen ollut vaikeaa, koska Budapestissa oli juuri tuolloin tappohelteitä, kun saavuin sinne ensimmäistä kertaa.
 
 Tappohelteet eivät ole kadonneet mihinkään; niitä nimenomaan tulee olemaan entistä enemmän. Katukuvassa on kuitenkin havaittavissa ihmisten muuttunut pukeutuminen – jota eräs ystäväni taannoin kommentoi ja kuvaili adjektiivilla: "rumia". Kaupungissa itsessään on hyvin paljon jäljellä tuon ajan Budapestin ja Unkarin henkeä, jota on mahdollista aistia – niin hyvässä kuin pahassa.
@@ -59,7 +59,7 @@ Elokuvassa on paljon pitkiä otoksia, jotka ovat usein lähikuvaa päähenkilös
 
 Itse en ole pystynyt yhtymään kritiikkiin, vaan mielestäni elokuva oli jännityselokuvana katsomisen arvoinen. Elokuva on oikeastaan hieman mielenkiintoisempi ja jännittävämpi, kun itselle tuttu Budapest muuttuu yhtäkkiä synkäksi ja sekasortoiseksi kaupungiksi, jossa ei todellakaan haluaisi itse olla. Katsoja ei todellakaan voi tietää, että keneen Irisz Leiter voi luottaa. Sivilisaation tuhon lähestymistä ei tietenkään mitenkään selitetä tai avata, mutta katsoja voi sen helposti yhdistää lähestyvään ensimmmäiseen maailmansotaan. Lähestyvä sekasorto on kuitenkin paljon enemmän kuin pelkkä ensimmäinen maailmansota, joten elokuvan ajatuksista ja tunnelmasta voi saada hieman enemmän auki, jos tietää Budapestin ja Unkarin historiaa.
 
-{% include figure image_path="https://i.imgur.com/oHJH2VU.jpg" alt="Elokuvan päähenkilö Irisz Leiter seuraamassa Kálmán Leiterin jalanjälkiä. (Kuva: Laokoon Filmgroup / Mátyás Erdély)" caption="Elokuvan päähenkilö Irisz Leiter seuraamassa Kálmán Leiterin jalanjälkiä. (Kuva: Laokoon Filmgroup / Mátyás Erdély)"%}
+{% include figure image_path="/assets/images/kuvat/usva-2.jpg" alt="Elokuvan päähenkilö Irisz Leiter seuraamassa Kálmán Leiterin jalanjälkiä. (Kuva: Laokoon Filmgroup / Mátyás Erdély)" caption="Elokuvan päähenkilö Irisz Leiter seuraamassa Kálmán Leiterin jalanjälkiä. (Kuva: Laokoon Filmgroup / Mátyás Erdély)"%}
 
 **Nouseva usva**
 

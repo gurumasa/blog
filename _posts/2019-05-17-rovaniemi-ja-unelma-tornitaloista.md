@@ -13,7 +13,7 @@ Sain tässä aiemmin toiselta entiseltä kemiläiseltä (tai hänen omien sanoje
 
 En ole rovaniemeläisenä hirveän innostuneena seurannut keskustelua tornitalojen rakentamisesta kotikaupunkiini. Mielikuva Ounasvaaran ja Korkalovaaran väliin keskustaan rakennettavista tornitaloista ei mitenkään houkuta, eikä myöskään tunnu oikealta keinolta kehittää kaupunkia. Havainnekuvien katsominen ei mitenkään paranna mielikuvaa, koska niissä on aina omat ongelmansa. Kakolan funikulaari oli pitkästä aikaa siitä hyvä muistutus ihmisille.
 
-{% include figure image_path="https://i.imgur.com/TDk3Lkp.jpg" alt="Havainnekuva Trevian Rahastot AIFM:n tornihotellista Rovaniemelle. Kuva: Arkkitehtikonttori Petri Pussinen Oy." caption="Havainnekuva Trevian Rahastot AIFM:n tornihotellista Rovaniemelle. Kuva: Arkkitehtikonttori Petri Pussinen Oy." %}
+{% include figure image_path="/assets/images/kuvat/tornitalo.jpg" alt="Havainnekuva Trevian Rahastot AIFM:n tornihotellista Rovaniemelle. Kuva: Arkkitehtikonttori Petri Pussinen Oy." caption="Havainnekuva Trevian Rahastot AIFM:n tornihotellista Rovaniemelle. Kuva: Arkkitehtikonttori Petri Pussinen Oy." %}
 
 **Baabelin torni**
 
