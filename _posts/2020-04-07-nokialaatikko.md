@@ -4,7 +4,7 @@ classes: wide
 
 title:  "Kuinka paljon Nokia-laatikkoon mahtuikaan rahaa?"
 
-categories: [Unkari, historia, politiikka, internetilmiöt]
+categories: [Unkari, historia, kieli, politiikka, internetilmiöt]
 
 header:
   og_image: /assets/images/kuvat/nokialaatikko-3.jpg
