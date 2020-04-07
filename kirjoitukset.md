@@ -10,6 +10,10 @@ header:
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
   caption: "**[Ysikuusviistuplanolla](https://www.youtube.com/watch?v=fprk3gPk-UI)**"
 ---
+
+### 2020
+[Euroopan unioni ja aseistettujen droonien pulma](http://tahdistolehti.fi/euroopan-unioni-ja-aseistettujen-droonien-pulma/ "Euroopan unioni ja aseistettujen droonien pulma") – Artikkeli, *Tähdistö*, 15. tammikuuta 2020.
+
 ### 2019
 [Viilentyvä arktinen alue ja EU sen keskellä](http://tahdistolehti.fi/viilentyva-arktinen-alue-ja-eu-sen-keskella/ "Viilentyvä arktinen alue ja EU sen keskellä") – Artikkeli, *Tähdistö*, 3. syyskuuta 2019.
 
