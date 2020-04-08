@@ -26,7 +26,7 @@ Palautin hiljattain kandidaatintutkielmani (*Kristillisen Unkarin viholliskuvat*
 
 Suomelle kohdistettu kritiikki sai luonnollisesti huomiota Suomen mediassa – kuten yleensäkin, kun Suomi mainitaan maailmalla. Näin ei kuitenkaan aina ole. Valitettavasti kaikki poliittiset puheetkaan eivät saa kaipaamaansa huomiota, koska palstatilalla ja työtunneilla on rajansa myös digitaalimediassa – puhumattakaan tietystä klikkimäärästä, jonka juttuaiheen odotetaan saavuttavan.
 
-Aineistooni kuului myös Orbánin viime helmikuussa pitämä kansakunnan tilaa koskeva vuosittainen puhe. Se ei Suomen mediassa saanut huomiota, mutta se ei kyllä myöskään tuonut mitään erityisen uutta kuuntelijalle, jolle Orbánin puheet ja niiden sisältö ovat jo ennestään tuttuja. Puheessa oli kuitenkin eräs yleisöä naurattanut Suomeen liittyvä viittaus: *Nokia-doboz* eli *Nokia-laatikko*. Mikä on tämä viittaus tuttuun laatikkoon, josta päällimmäisenä tulee mieleen sininen väri tai kuva kahdesta ihmisestä, jotka julistivat Nokian *Connecting People* -slogania?
+Aineistooni kuului myös Orbánin viime helmikuussa pitämä kansakunnan tilaa koskeva vuosittainen puhe. Se ei Suomen mediassa saanut huomiota, mutta se ei kyllä myöskään tuonut mitään erityisen uutta kuuntelijalle, jolle Orbánin puheet ja niiden sisältö ovat jo ennestään tuttuja. Puheessa oli kuitenkin eräs yleisöä naurattanut Suomeen liittyvä viittaus: *Nokia-doboz* eli *Nokia-laatikko*. Mikä on tämä viittaus tuttuun laatikkoon, josta päällimmäisenä tulee mieleen sininen väri tai kuva kahdesta ihmisestä, jotka julistivat Nokian *"Connecting People"* -slogania?
 
 **Alati muuttuva kieli ja vertauskuvat**
 
