@@ -12,6 +12,8 @@ header:
 ---
 
 ### 2020
+[Euroopan syyttäjänviraston toiminnan käynnistymisestä ei saa tulla pannukakkua](http://tahdistolehti.fi/euroopan-syyttajanviraston-toiminnan-kaynnistymisesta-ei-saa-tulla-pannukakkua/ "Euroopan syyttäjänviraston toiminnan käynnistymisestä ei saa tulla pannukakkua") – Artikkeli, *Tähdistö*, 22. huhtikuuta 2020.
+
 [Euroopan unioni ja aseistettujen droonien pulma](http://tahdistolehti.fi/euroopan-unioni-ja-aseistettujen-droonien-pulma/ "Euroopan unioni ja aseistettujen droonien pulma") – Artikkeli, *Tähdistö*, 15. tammikuuta 2020.
 
 ### 2019
