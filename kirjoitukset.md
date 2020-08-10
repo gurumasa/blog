@@ -12,6 +12,8 @@ header:
 ---
 
 ### 2020
+[Kohti seuraavaa kunnianhimoista EU:n vammaisstrategiaa](http://tahdistolehti.fi/kohti-seuraavaa-kunnianhimoista-eun-vammaisstrategiaa/?fbclid=IwAR07iplNwS1bd_hxAgWONviPsO4EH9V4EEMJfgNyFlXSOOQ6eg0kkVm8fDY "Kohti seuraavaa kunnianhimoista EU:n vammaisstrategiaa") – Artikkeli, *Tähdistö*, 10. elokuuta 2020.
+
 [Euroopan syyttäjänviraston toiminnan käynnistymisestä ei saa tulla pannukakkua](http://tahdistolehti.fi/euroopan-syyttajanviraston-toiminnan-kaynnistymisesta-ei-saa-tulla-pannukakkua/ "Euroopan syyttäjänviraston toiminnan käynnistymisestä ei saa tulla pannukakkua") – Artikkeli, *Tähdistö*, 22. huhtikuuta 2020.
 
 [Euroopan unioni ja aseistettujen droonien pulma](http://tahdistolehti.fi/euroopan-unioni-ja-aseistettujen-droonien-pulma/ "Euroopan unioni ja aseistettujen droonien pulma") – Artikkeli, *Tähdistö*, 15. tammikuuta 2020.
