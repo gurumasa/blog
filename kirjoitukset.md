@@ -12,6 +12,8 @@ header:
 ---
 
 ### 2020
+[Nuorten militarisoitumisen vastainen toimintaviikko: Nuorten äänen tulee kuulua ja näkyä](https://www.sadankomitea.fi/nuorten-militarisoitumisen-vastainen-toimintaviikko-nuorten-aanen-tulee-kuulua-ja-nakya/ "Nuorten militarisoitumisen vastainen toimintaviikko: Nuorten äänen tulee kuulua ja näkyä") – Blogikirjoitus, *Sadankomitea*, 12. marraskuuta 2020.
+
 [Kohti seuraavaa kunnianhimoista EU:n vammaisstrategiaa](http://tahdistolehti.fi/kohti-seuraavaa-kunnianhimoista-eun-vammaisstrategiaa/?fbclid=IwAR07iplNwS1bd_hxAgWONviPsO4EH9V4EEMJfgNyFlXSOOQ6eg0kkVm8fDY "Kohti seuraavaa kunnianhimoista EU:n vammaisstrategiaa") – Artikkeli, *Tähdistö*, 10. elokuuta 2020.
 
 [Euroopan syyttäjänviraston toiminnan käynnistymisestä ei saa tulla pannukakkua](http://tahdistolehti.fi/euroopan-syyttajanviraston-toiminnan-kaynnistymisesta-ei-saa-tulla-pannukakkua/ "Euroopan syyttäjänviraston toiminnan käynnistymisestä ei saa tulla pannukakkua") – Artikkeli, *Tähdistö*, 22. huhtikuuta 2020.
