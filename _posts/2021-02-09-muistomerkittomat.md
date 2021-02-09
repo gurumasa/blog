@@ -144,4 +144,8 @@ Yhdysvaltain entistä presidenttiä **Donald Trumpia** on pidetty kokemukseltaan
 
 Yhdysvaltain istuvista presidenteistä vain 11 on jäänyt valitsematta uudelleen virkaan; tähän joukkoon kuuluvat molemmat Adamsit ja Trump. Adamsit eivät nöyryyttävästä tappiosta huolimatta ryhtyneet ajamaan kaaosta, joka olisi ajanut tasavallan kriisiin, mutta jättivät sopuisasti seuraajansa virkaanastujaiset väliin. Adamsien ja Trumpin välillä virkaanastujaiset jätti väliin myös **Andrew Johnson** vuonna 1869, mutta kaikista presidenteistä Trump jää historiaan presidenttinä, joka jatkumon, tradition ja tasavallan suojelemisen sijaan ryhtyi ajamaan omaa etuaan haastamalla vaalien tuloksen.
 
+>"Many a tyrant was once good and innocent, and many have been urged to crime by misconceived ideas of virtue—continue this study. It will expand your mind, and guard you against false reasonings and false principles, things the most dangerous to youth, as once imbibed they are most difficult to eradicate.”
+>
+>– **Louisa Catherine Johnson Adams**, 3. helmikuuta 1819 päivätyssä [kirjeessään](https://founders.archives.gov/documents/Adams/99-03-02-3614) pojalleen Charles Francis Adamsille.
+
 {% include video id="8i3Vtr_vEZI" provider="youtube" %}
