@@ -146,6 +146,6 @@ Yhdysvaltain istuvista presidenteistä vain 11 on jäänyt valitsematta uudellee
 
 >"Many a tyrant was once good and innocent, and many have been urged to crime by misconceived ideas of virtue—continue this study. It will expand your mind, and guard you against false reasonings and false principles, things the most dangerous to youth, as once imbibed they are most difficult to eradicate.”
 >
->– **Louisa Catherine Johnson Adams**, 3. helmikuuta 1819 päivätyssä [kirjeessään](https://founders.archives.gov/documents/Adams/99-03-02-3614) pojalleen Charles Francis Adamsille.
+>– **Louisa Catherine Johnson Adams** (Yhdysvaltojen ensimmäinen nainen, John Quincy Adamsin vaimo), 3. helmikuuta 1819 päivätyssä [kirjeessään](https://founders.archives.gov/documents/Adams/99-03-02-3614) pojalleen Charles Francis Adamsille.
 
 {% include video id="8i3Vtr_vEZI" provider="youtube" %}
