@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Joni-Matti Koskinen"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Sähköinsinööri, joka opiskelee politiikkatieteitä ja kansainvälistä oikeutta. Jonkinasteinen aktivisti, mutta selkeästi rauhan ystävä ja eurooppalainen. Pitää muun muassa kirjoittamisesta, lukemisesta ja maalaamisesta."
+  bio              : "Sähköinsinööri, joka opiskelee tällä hetkellä pääaineena politiikkatieteitä, sekä siinä sivussa kansainvälistä oikeutta, filosofiaa ja teologiaa. Jonkinasteinen aktivisti, mutta selkeästi rauhan ystävä ja eurooppalainen. Pitää muun muassa kirjoittamisesta, lukemisesta, maalaamisesta ja valokuvaamisesta."
   location         :
   email            :
   links:
@@ -290,4 +290,4 @@ defaults:
       read_time: # true
       comments: # true
       share: true
-      related: # true
+      related: true
