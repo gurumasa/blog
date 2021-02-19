@@ -7,7 +7,7 @@ title:  "Christopher Plummer 1929 – 2021"
 categories: [elokuvat]
 
 header:
-  og_image: /assets/images/kuvat/hauer-5.jpg
+  og_image: /assets/images/kuvat/plummer-5.jpg
 
 gallery:
   - url: /assets/images/kuvat/plummer-7.jpg
