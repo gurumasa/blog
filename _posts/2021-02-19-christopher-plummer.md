@@ -16,8 +16,8 @@ gallery:
     title: "Tohtori Watson ja Sherlock Holmes tutkimusten äärellä."
   - url: /assets/images/kuvat/plummer-8.jpg
     image_path: /assets/images/kuvat/plummer-8.jpg
-    alt: "Sherlock Holmes ja Tohtori Watson tutkimusten äärellä."
-    title: "Sherlock Holmes ja Tohtori Watson tutkimusten äärellä."
+    alt: "Tohtori Watson ja Sherlock Holmes tutkimusten äärellä."
+    title: "Tohtori Watson ja Sherlock Holmes tutkimusten äärellä."
 
 gallery2:
   - url: /assets/images/kuvat/plummer-2.jpg
