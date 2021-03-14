@@ -32,7 +32,7 @@ gallery2:
 
 **Monen ikonisen hahmon ja henkilön näyttelijä, mutta ennen kaikkea Sherlock Holmesin.**
 
-![](/assets/images/kuvat/plummer-1.jpg){: .align-left}
+![Christopher Plummer](/assets/images/kuvat/plummer-1.jpg){: .align-left}
 Elokuvamaailma ja elokuvien katselijat saivat suru-uutisen, kun arvostettu ja menestynyt näyttelijä **Arthur Christopher Orme Plummer** nukkui pois 91 vuoden kunnioitettavassa iässä 5. helmikuuta. 2021. Yksi palkituimmista näyttelijöistä tunnetaan varmasti parhaiten kapteeni George von Trappin roolista elokuvassa *Sound of Music*, mutta hänen esittämiin rooleihin kuuluvat muun muassa Erwin Rommel, Star Trekin General Chang, Abraham Van Helsing, Joulupukki, Aristoteles, Julius Caesar, Leo Tolstoi, Vilhem II sekä monia monia muita fiktiivisiä ja ei-fiktiivisiä henkilöitä.
 
 Näyttelijöille tutun uran hiipumiseen sijaan Plummer nousi uransa loppuvaiheilla uuteen kukoistukseen, joka huomioitiin 2000-luvulla kolmella Oscar-ehdokkuudella, joista vuoden 2011 ehdokkuus elokuvasta *Beginners* toi hänelle lopulta Oscarin parhaasta miessivuosasta. Tähän päivään mennessä hän on vanhin perinteisistä kategorioista ehdokkuuden saanut ja palkinnon voittanut ehdokas. Jo ennen Oscaria hän oli voittanut myös arvostetun televisioalan Primetime Emmy -palkinnon kaksi kertaa, kuten myös teatterialan Tony-palkinnon Broadway-näytelmästä, mutta myös musikaalista. Näyttelijäpalkintojen lisäksi hän sai myös urallaan yhden musiikkialan Grammy-palkintoehdokkuuden.
