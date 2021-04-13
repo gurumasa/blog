@@ -25,7 +25,7 @@ header:
 
 [EU tarvitsee vahvaa Euroopan syyttäjänvirastoa taistelussa talousrikoksia vastaan](http://tahdistolehti.fi/eu-tarvitsee-vahvaa-euroopan-syyttajanvirastoa-taistelussa-talousrikoksia-vastaan/ "EU tarvitsee vahvaa Euroopan syyttäjänvirastoa taistelussa talousrikoksia vastaan") – Artikkeli, *Tähdistö*, 29. maaliskuuta 2019.
 
-[Kansalaisjärjestöiltä ei saa enää leikata](https://www.lapinkansa.fi/mielipide/lukijalta-kansalaisjarjestoilta-ei-saa-enaa-leikata-3507887/ "Kansalaisjärjestöiltä ei saa enää leikata") – Mielipidekirjoitus, *Lapin Kansa*, 29. maaliskuuta 2019.
+[Kansalaisjärjestöiltä ei saa enää leikata]({% link mielipide.md %}) – Mielipidekirjoitus, *Lapin Kansa*, 29. maaliskuuta 2019.
 
 ### 2018
 [Euroopan unionin työ vammaisten oikeuksien eteen](http://tahdistolehti.fi/euroopan-unionin-tyo-vammaisten-oikeuksien-eteen/ "Euroopan unionin työ vammaisten oikeuksien eteen") – Artikkeli, *Tähdistö*, 4. joulukuuta 2018.
