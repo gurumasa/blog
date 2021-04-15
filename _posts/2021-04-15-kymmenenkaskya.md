@@ -36,7 +36,7 @@ Erityisesti viimeinen kehotus on jälleen kerran ajankohtainen näin vaalien lä
 
 ## Poliittiset kymmenen käskyä vapautta rakastavalle ihmisille
 
-Käännös unkarin kielestä ja olen itse vastuussa mahdollisista virheistä ja tulkinnoista. Huomioithan alaviitteet, joissa huomioita käännöksestä.
+Huomioithan alaviitteet, joissa huomioita käännöksestä. Olen itse vastuussa mahdollisista virheistä ja tulkinnoista.
 {: .notice--info}
 
 Vapautta rakastava ihminen...
