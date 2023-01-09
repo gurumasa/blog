@@ -50,4 +50,4 @@ Kultaisen bullan merkityksestä unkarilaisessa parlamentarismissa kertoo myös s
  
 >"Emme olisi oikeutettuja liioittelemaan sen arvoa väittämällä, että se loi nykyaikaiset demokraattiset vapaudet, emmekä vähättelemään sitä sanomalla sen vain tarjonneen vapautta herroille."
 >
->–István Bibó 
+>–**István Bibó**
