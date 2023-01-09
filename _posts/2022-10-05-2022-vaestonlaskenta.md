@@ -40,7 +40,7 @@ Seuraava kuva on hyvinkin tuttu, jos on tutustunut uskonnollisuuteen Unkarissa, 
 
 Mikä on järkyttänyt tuloksissa? Se on uskontoa tunnustavien määrän vähentyminen kaikissa uskontokunnissa, mutta erityisesti katolilaisuudessa. Vuonna 2011 katolilaiseksi ei enää tunnustaunut yli puolet väestöstä, vaan ainoastaan 39%. Kristityiksi juuri ja juuri puolet väestöstä.
 
-{% include figure image_path="/assets/images/kuvat/vaestonlaskenta-03.png" alt="Vuoden 2011 väestönlaskennan pohjalta tehty kartta, jossa ilmenee alueiden suurin uskontokunta." caption="Vuoden 2011 väestönlaskennan pohjalta tehty kartta, jossa ilmenee alueiden suurin uskontokunta." %}
+{% include figure image_path="/assets/images/kuvat/vaestonlaskenta-03.png" alt="Taulukko uskontokuntaa koskevan kysymyksen tuloksista vuoden 2001 ja 2011 väestönlaskennoissa." caption="Taulukko uskontokuntaa koskevan kysymyksen tuloksista vuoden 2001 ja 2011 väestönlaskennoissa." %}
 
 Jos vuonna 2001 uskontokysymykseen vastaamattomien määrä järkytti, niin järkytti se 2011 uudelleen. Nyt tullaan aiheeseen nimeltä vaikuttaminen vastaajiin, jota ovat harrastaneet niin uskontokunnat kuin myös poliittiset puolueet, jotka ovat halunneet tuloksia mieleisekseen.
 
