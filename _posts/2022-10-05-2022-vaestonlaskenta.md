@@ -15,12 +15,12 @@ gallery:
     title: "Vuoden 2011 väestönlaskennan pohjalta tehty kartta, jossa ilmenee alueiden suurin uskontokunta."
 ---
 
-**Viimeksi 2001 ja 2011 toteutettuun laskentaan liittyy aina yhteiskunnallista ja poliittista vaikuttamista sekä sen tuloksilla on ollut merkitystä.**
+**Viimeksi vuosina 2001 ja 2011 toteutettuun laskentaan liittyy aina yhteiskunnallista ja poliittista vaikuttamista sekä sen tuloksilla on ollut merkitystä.**
 
 Tämä kirjoitus on julkaistu alunperin [Twitter-ketjuna](https://twitter.com/JMKoskinen/status/1577706870281629696), joka on sellaisenaan avattuna alla.
 {: .notice--info}
 
- Unkarin kauan odotettu väestönlaskenta viimein toteutuu! Viimeksi 2001 ja 2011 toteutettuun laskentaan liittyy aina yhteiskunnallista ja poliittista vaikuttamista sekä sen tuloksilla on ollut merkitystä. Samat merkit ja odotukset ovat jälleen kerran ilmassa.
+ Unkarin kauan odotettu väestönlaskenta viimein toteutuu! Viimeksi vuosina 2001 ja 2011 toteutettuun laskentaan liittyy aina yhteiskunnallista ja poliittista vaikuttamista sekä sen tuloksilla on ollut merkitystä. Samat merkit ja odotukset ovat jälleen kerran ilmassa.
 
 !["This is a classic!"](https://media.tenor.com/OF5sOmdQ5C8AAAAd/classic-back-to-the-future.gif){: .align-center}
 
