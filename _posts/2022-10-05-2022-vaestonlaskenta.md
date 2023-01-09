@@ -6,7 +6,7 @@ title:  "Unkarin vuoden 2022 väestönlaskenta – vanhat merkit ja odotukset to
 categories: [Unkari, yhteiskunta]
 
 header:
-  og_image: /assets/images/kuvat/vaestonlaskenta-1.jpg
+  og_image: /assets/images/kuvat/vaestonlaskenta-01.jpg
   
 gallery:
   - url: /assets/images/kuvat/vaestonlaskenta-02.jpg
@@ -30,7 +30,7 @@ Kyselyssä kysytään perustietoja kansalaisten elämästä, kuten heidän taust
 
 {% include figure image_path="/assets/images/kuvat/vaestonlaskenta-01.jpg" alt="Lehtimainos, jossa kannustetaan osallistumaan väestönlaskentaan nettisivujen kautta." caption="Lehtimainos, jossa kannustetaan osallistumaan väestönlaskentaan nettisivujen kautta." %}
 
-*Väestönlaskennan kysymyspatteristo löytyy [tästä linkistä](https://nepszamlalas2022.hu/about-the-questionnaire).*
+*Väestönlaskennan kysymykset löytyvät [tästä linkistä](https://nepszamlalas2022.hu/about-the-questionnaire).*
 
 Mutta mikä on jälleen kerran kuuma peruna? Se on kysymys uskonnosta. Se on haluttu pitää mukana väestönlaskennassa, vaikka siitä on haluttu tehdä täysin Euroopan parlamentin ja neuvoston asetuksen mukainen, jossa se ei ole kysymysten joukossa.
 
