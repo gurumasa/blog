@@ -44,6 +44,6 @@ Kevään vaalien jälkeen pääministerin toimisto sai suoran pääsyn suurempaa
 
 Tämä on herättänyt pelkoa mahdollisesta valvontayhteiskunnan muodostumisesta, jossa valtaapitäville epämieluisat kansalaiset ja toimijat voidaan kaivaa esiin, jolloin heitä voidaan vakoilla. Tätähän on Unkarissa jo tehty:
 
-*(Ylen [uutinen](https://yle.fi/a/3-12025927) uutinen selvityksestä, jonka mukaan Unkari ja yhdeksän muuta maata ovat vakoilleet kansalaisiaan Pegasus-vakoiluohjelmalla.)*
+*(Ylen [uutinen](https://yle.fi/a/3-12025927) selvityksestä, jonka mukaan Unkari ja yhdeksän muuta maata ovat vakoilleet kansalaisiaan Pegasus-vakoiluohjelmalla.)*
 
 On luonnollista, ettei tällaisessa ilmapiirissä ja yhteiskunnassa haluta antaa itsestään entistä enempää informaatiota, jota voidaan käyttää poliittiseen vaikuttamiseen ja pelotteluun.
