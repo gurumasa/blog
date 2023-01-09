@@ -6,7 +6,7 @@ title:  "Unkarin vuoden 2022 väestönlaskenta – vanhat merkit ja odotukset to
 categories: [Unkari, yhteiskunta]
 
 header:
-  og_image: /assets/images/kuvat/kymmenenkaskya-1.jpg
+  og_image: /assets/images/kuvat/vaestonlaskenta-1.jpg
   
 gallery:
   - url: /assets/images/kuvat/vaestonlaskenta-02.jpg
