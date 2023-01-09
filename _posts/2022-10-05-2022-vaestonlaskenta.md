@@ -7,6 +7,12 @@ categories: [Unkari, yhteiskunta]
 
 header:
   og_image: /assets/images/kuvat/kymmenenkaskya-1.jpg
+  
+gallery:
+  - url: /assets/images/kuvat/vaestonlaskenta-02.jpg
+    image_path: /assets/images/kuvat/vaestonlaskenta-02.jpg
+    alt: "Vuoden 2011 väestönlaskennan pohjalta tehty kartta, jossa ilmenee alueiden suurin uskontokunta."
+    title: "Vuoden 2011 väestönlaskennan pohjalta tehty kartta, jossa ilmenee alueiden suurin uskontokunta."
 ---
 
 **Viimeksi 2001 ja 2011 toteutettuun laskentaan liittyy aina yhteiskunnallista ja poliittista vaikuttamista sekä sen tuloksilla on ollut merkitystä.**
@@ -30,7 +36,7 @@ Mutta mikä on jälleen kerran kuuma peruna? Se on kysymys uskonnosta. Se on hal
 
 Seuraava kuva on hyvinkin tuttu, jos on tutustunut uskonnollisuuteen Unkarissa, koska se kuvaa vuoden 2011 väestönlaskennan tuloksia uskonnon osalta. Siinä on nähtävissä roomalaiskatolilaisuuden laaja tunnustaminen, muiden pienempien uskontojen ydinalueen sekä Bpestin jakautuminen.
 
-{% include figure image_path="/assets/images/kuvat/vaestonlaskenta-02.jpg" alt="Vuoden 2011 väestönlaskennan pohjalta tehty kartta, jossa ilmenee alueiden suurin uskontokunta." caption="Vuoden 2011 väestönlaskennan pohjalta tehty kartta, jossa ilmenee alueiden suurin uskontokunta." %}
+{% include gallery caption="Vuoden 2011 väestönlaskennan pohjalta tehty kartta, jossa ilmenee alueiden suurin uskontokunta." caption="Vuoden 2011 väestönlaskennan pohjalta tehty kartta, jossa ilmenee alueiden suurin uskontokunta."%}
 
 Mikä on järkyttänyt tuloksissa? Se on uskontoa tunnustavien määrän vähentyminen kaikissa uskontokunnissa, mutta erityisesti katolilaisuudessa. Vuonna 2011 katolilaiseksi ei enää tunnustaunut yli puolet väestöstä, vaan ainoastaan 39%. Kristityiksi juuri ja juuri puolet väestöstä.
 
@@ -46,7 +52,7 @@ Tällä kertaa vetoomuksensa kansalaisille on esittänyt esimerkiksi ateistien e
 
 Kirkoista muun muassa Unkarin evankelisluterilainen kirkko on kannustanut ihmisiä tunnustamaan evankelisluterilaisuutta. Heidän osuutensa 2011 väestönlaskennassa oli vaivaiset 2,2%, eikä sen putoaminen entisestään olisi yllätys.
 
-<blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/AlexanderFaludy/status/1576985850755575808">https://twitter.com/AlexanderFaludy/status/1576985850755575808</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/AlexanderFaludy/status/1576985850755575808">https://twitter.com/AlexanderFaludy/status/1576985850755575808</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Kaikki eivät kuitenkaan aina ole olleet tuloksista järkyttyneitä. Vuonna 2007 oppositiojohtajana toiminut **Viktor Orbán** oli enemmän kuin tyytyväinen 2001 tuloksista, koska kristinuskoa tunnusti yli 70%, vaikka mielipidetutkijat odottivat hänen mukaansa 10–15% osuutta.
 
@@ -58,4 +64,4 @@ Tutkijoilla tuleekin olemaan mielenkiintoiset ajat, kun lopulliset tulokset aika
 
 *Lisäyksenä twiitti liittyen Unkarin hallituksen tavasta muistella kansalaisiaan kirjepostilla: väestönlaskentaa koskeva kirje ei saavuttanut kaikkia, mutta kansallisesta konsultaatiosta kertova kirje saapuu varmasti perille:*
 
-<blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/AlexanderFaludy/status/1582992298303856640">https://twitter.com/AlexanderFaludy/status/1582992298303856640</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/AlexanderFaludy/status/1582992298303856640">https://twitter.com/AlexanderFaludy/status/1582992298303856640</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
