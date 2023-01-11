@@ -4,7 +4,7 @@ classes: wide
 
 title:  "Muistomerkittömät Adamsit"
 
-categories: [historia, politiikka, yhdysvallat]
+categories: [historia, politiikka, Yhdysvallat]
 
 header:
   og_image: /assets/images/kuvat/adams-x.jpg

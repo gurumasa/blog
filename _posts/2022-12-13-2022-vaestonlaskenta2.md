@@ -5,8 +5,6 @@ title:  "Mitä huolia Unkarin väestönlaskenta herättää?"
 
 categories: [Unkari, yhteiskunta]
 
-header:
-  og_image: /assets/images/kuvat/kymmenenkaskya-1.jpg
 ---
 
 **Unkarin vuoden 2022 väestönlaskenta on viimein suoritettu, mutta mitä huolia se herättää kansalaisissa?**
