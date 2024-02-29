@@ -11,6 +11,9 @@ header:
   caption: "**[Ysikuusviistuplanolla](https://www.youtube.com/watch?v=fprk3gPk-UI)**"
 ---
 
+### 2023
+[Kolmen humanistin puheenvuoro antisemitismistä](/assets/images/kuvat/SUS_lehtijuttu_012023.jpeg) – Kirja-arvostelu, *Suomi-Unkari Seuran lehti*, nro. [1/2023](https://suomiunkari.fi/lehti/1-2023/).
+
 ### 2020
 [Nuorten militarisoitumisen vastainen toimintaviikko: Nuorten äänen tulee kuulua ja näkyä](https://www.sadankomitea.fi/nuorten-militarisoitumisen-vastainen-toimintaviikko-nuorten-aanen-tulee-kuulua-ja-nakya/ "Nuorten militarisoitumisen vastainen toimintaviikko: Nuorten äänen tulee kuulua ja näkyä") – Blogikirjoitus, *Sadankomitea*, 12. marraskuuta 2020.
 
