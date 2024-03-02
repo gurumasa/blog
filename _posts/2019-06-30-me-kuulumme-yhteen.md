@@ -61,6 +61,6 @@ Kuvat:
 - *Jànos Pilinszky*, public domain.
 
 Lainaukset:
-- *Halonen, Kaisa* (2011) Innostaja Anna-Maija Raittila (https://www.kirkkojakaupunki.fi/-/innostaja-anna-maija-raittila). Haettu 30.6.2019.
+- *Halonen, Kaisa* (2011) Innostaja Anna-Maija Raittila (https://www.kotimaa.fi/blogit/anna-maija-raittila-vain-unelmat-toteutuvat-eivat-suunnitelmat/comment-page-1/). Haettu 30.6.2019.
 - *Kiuru, Hannu* (2016) Anna-Maija Raittila: Vain unelmat toteutuvat, eivät suunnitelmat! (https://www.kotimaa24.fi/blogit/anna-maija-raittila-vain-unelmat-toteutuvat-eivat-suunnitelmat/). Haettu 30.6.2019.
 - *Pilinszky, János* (1979) Unkarilaisia runoja, *Anna-Maija Raittila* (toim.). Pieksämäki: Kirjapaja.
