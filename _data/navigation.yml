@@ -4,11 +4,7 @@ main:
     url: /
   - title: "Blogi"
     url: /blog/
-  - title: "Arkisto"
-    url: /arkisto/
-  - title: "Aiheet"
-    url: /categories/
-  - title: "Kirjoituksiani"
+  - title: "Kirjoituksiani muualla"
     url: /kirjoitukset/
   # - title: "Haku"
   #  url: /haku/
