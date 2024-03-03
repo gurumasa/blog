@@ -52,7 +52,7 @@ Kenties ihmiseloon lopulta kuuluu kärsimyksien kanssa eläminen, koska ihminen 
 
 Ehkäpä on olemassa suora totuus, jota emme voi kestää tällä puolen – kuten Pilinszky on todennut. Pelottavatkin asiat voivat kuitenkin hänen mielestään olla lempeitä, kuten hänelle tällainen asia oli esimerkiksi evankeliumi. Raittilan runojen tapaan meidän tulisi kuitenkin elää kulkijoina, jotka ovat kuuntelijoita ja eläytyjiä, jotka luottavat elämykseen – eivätkä takerru dogmeihin.
 
-Korostakaamme Raittilan tavoin keskeneräisyyttäämme ja pysykäämme jatkuvasti liikkeellä. Auttakaamme toisiamme ja toivokaamme, että heillä olisi voimaa ja rohkeutta kohdata elämän vastoinkäymisiä.
+Korostakaamme Raittilan tavoin keskeneräisyyttäämme ja pysykäämme jatkuvasti liikkeellä. Auttakaamme toisiamme ja toivokaamme, että meillä olisi voimaa ja rohkeutta kohdata elämän vastoinkäymisiä.
 
 **Kuvat ja lainaukset**
 

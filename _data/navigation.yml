@@ -4,7 +4,7 @@ main:
     url: /
   - title: "Blogi"
     url: /blog/
-  - title: "Kirjoituksiani muualla"
+  - title: "Kirjoitukset"
     url: /kirjoitukset/
   # - title: "Haku"
   #  url: /haku/
