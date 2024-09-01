@@ -12,6 +12,8 @@ header:
 ---
 
 ### 2023
+[Järjestötoiminnan haasteena nuorten passiivisuus](https://lapinylioppilaslehti.fi/2023/05/30/jarjestotoiminnan-haasteena-nuorten-passiivisuus/) – Artikkeli, *Lapin ylioppilaslehti*, nro. [2/2023](https://www.lehtiluukku.fi/lue/lapin_ylioppilaslehti/02-2023/352136.html).
+
 [Kolmen humanistin puheenvuoro antisemitismistä](/assets/images/kuvat/SUS_lehtijuttu_012023.jpeg) – Kirja-arvostelu, *Suomi-Unkari Seuran lehti*, nro. [1/2023](https://suomiunkari.fi/lehti/1-2023/).
 
 ### 2020
