@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Joni-Matti Koskinen"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Olen sähköinsinööri, joka opiskelee tällä hetkellä politiikkatieteitä sekä siinä sivussa sivuaineina kansainvälistä oikeutta, filosofiaa ja teologiaa. Pitää kirjoittamisen ohessa lukemisesta, maalaamisesta ja valokuvaamisesta. Kaiken lisäksi soitan myös kiippariurkuja kaamoksen keskellä."
-  location         :
+  bio              : "Olen sähkövoimatekniikan insinööri, joka työelämän ohessa opiskelee politiikkatieteitä Lapin yliopistossa. Sivuaineinani opiskelen kansainvälistä oikeutta, filosofiaa ja teologiaa."
+  location         : 
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,13 +124,13 @@ author:
       url: "https://twitter.com/JMKoskinen/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/people/Joni-Matti-Koskinen/61573056080741/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/jmkkos/"
+      url: "https://www.instagram.com/jmkkos/"
 
 # Site Footer
 footer:
