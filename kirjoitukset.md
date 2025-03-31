@@ -11,6 +11,8 @@ header:
   caption: "**[Ysikuusviistuplanolla](https://www.youtube.com/watch?v=fprk3gPk-UI)**"
 ---
 
+## 2025
+
 ## 2024
 [Ajaton kysymys eliitin vastuusta ja sosiaalisen tunnon merkityksestä](https://suomiunkari.fi/kulttuuri/ajaton-kysymys-eliitin-vastuusta-ja-sosiaalisen-tunnon-merkityksesta/) – Artikkeli, *Suomi-Unkari Seura*, nro. [4/2024](https://suomiunkari.fi/lehti/4-2024/).
 
