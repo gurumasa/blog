@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 
-title: Kuntavaalit 2025
+title: Kuntavaalit
 
 toc: true
 toc_label: "Vaalikamppanjastani"
@@ -10,7 +10,7 @@ toc_sticky: false
 
 excerpt: "Vasemmistoliiton kuntavaaliehdokas Rovaniemellä!"
 header:
-  overlay_image: /assets/images/header10.png
+  overlay_image: /assets/images/header10.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
   caption: "Kirkkolampi"
 ---
