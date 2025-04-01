@@ -2,9 +2,11 @@
 main:
   - title: "Etusivu"
     url: /
+  - title: "Kuntavaalit 2025"
+    url: /vaalit/
   - title: "Blogi"
     url: /blog/
-  - title: "Kirjoitukset"
+  - title: "Kirjoituksiani"
     url: /kirjoitukset/
   # - title: "Haku"
   #  url: /haku/
