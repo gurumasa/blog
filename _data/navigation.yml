@@ -6,7 +6,7 @@ main:
     url: /vaalit/
   - title: "Blogi"
     url: /blog/
-  - title: "Kirjoituksiani muualla"
+  - title: "Kirjoituksiani"
     url: /kirjoitukset/
   # - title: "Haku"
   #  url: /haku/
