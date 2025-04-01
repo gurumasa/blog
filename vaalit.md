@@ -16,11 +16,11 @@ header:
 ---
 # Miksi olen ehdolla?
 ![Joni-Matti Koskinen](/assets/images/custom.png){: .align-right}
-Olen ehdolla kuntavaaleissa Rovaniemellä, koska haluan olla päättäjänä mukana rakentamassa rakkaasta kotikaupungistani mahdollisuuksien kaupunkia, joka on elinvoimainen ja yhdenvertainen. Rovaniemen tulisi olla kaupunki, jonka jokainen tuntisi omaksi kaupungikseen, jonne on hyvä jäädä rakentamaan elämää.
+Olen ehdolla kuntavaaleissa Rovaniemellä Vasemmistoliiton listalla, koska haluan olla päättäjänä mukana rakentamassa rakkaasta kotikaupungistani mahdollisuuksien kaupunkia, joka on elinvoimainen ja yhdenvertainen. Rovaniemen tulisi olla kaupunki, jonka jokainen tuntisi omaksi kaupungikseen, jonne on hyvä jäädä rakentamaan elämää.
 
 Länsikankaan kasvattina Rovaniemi kaikkine puolineen on aina ollut minulle rakas kotikaupunki. Minulle on aina ollut ilo ja ylpeys tehdä sen aseman ja tunnettavuuden eteen työtä jo järjestö- ja yhdistystoiminnan parissa.
 
-Kuntavaaleihin lähteminen oli helppo päätös, koska kuntatasolla tehdään ne päätökset, jotka näkyvät rovaniemeläisten arjessa ja ympäristössä. Päätökseni lähteä mukaan politiikkaan syntyi vuoden 2023 eduskuntavaalien jälkeen, koska en enää kokenut äänestämisen riittävän yhteisten asioiden ajamiseen.
+Kuntavaaleihin lähteminen oli helppo päätös, koska kuntatasolla tehdään ne päätökset, jotka näkyvät rovaniemeläisten arjessa ja ympäristössä. Päätökseni lähteä mukaan politiikkaan syntyi vuoden 2023 eduskuntavaalien jälkeen, koska en enää kokenut pelkän äänestämisen riittävän yhteisten asioiden ajamiseen. Tällä hetkellä toimin Rovaniemen Vasemmistoliiton kunnallissihteerinä.
 
 # Minusta lyhyesti
 
