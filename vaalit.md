@@ -62,7 +62,7 @@ Kaupunkiamme tulisi rakentaa ensisijaisesti asukkaiden ehdoilla, eikä suinkaan 
 
 Tehdään Rovaniemestä määrätietoisesti esteetön ja yhdenvertainen kaupunki. Sen tilojen ja palvelujen tulee olla esteettömiä ja saavutettavia kaikille.
 
-Jokaisen tulee saada kuulua olla omana itsenään osa yhteisöämme ja kaupunkiamme. Meidän tulee edistää ja varmistaa, että jokaisella on vaikutusmahdollisuus Rovaniemen asioihin ja päätöksentekoon. Rovaseudun työllisyysalueen tulee edistää nuorten lisäksi erityisesti vammaisten työllistymistä.
+Jokaisen tulee saada kuulua olla omana itsenään osa yhteisöämme ja kaupunkiamme. Meidän tulee edistää ja varmistaa, että jokaisella on vaikuttamismahdollisuus Rovaniemen asioihin ja päätöksentekoon. Rovaseudun työllisyysalueen tulee edistää nuorten lisäksi erityisesti vammaisten työllistymistä.
 
 # Vaalikoneet
 Suorat linkit vastauksiini vaalikoneissa (jos mahdollista):
