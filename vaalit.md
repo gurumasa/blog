@@ -28,7 +28,7 @@ Olen 35-vuotias sähkövoimatekniikan insinööri, joka työelämän ohessa opis
 
 Opinnoissani olen perehtynyt juurikin Unkarin politiikkaan ja yhteiskuntaan, joka on ollut omiaan syventämään käsitystäni politiikasta ja sen tekemisestä. Se on myös opettanut näkemään suomalaisen yhteiskunnan toisesta näkökulmasta, joka on kasvattanut arvostustani sitä kohtaan entisestään. Valitettavasti juuri tällä tutkimusmatkalla olen päässyt näkemään ja syventymään myös niihin länsimaista demokratiaa rapauttaviin ilmiöihin, jotka ovat nousseet esiin myös muissa länsimaissa Suomi mukaan lukien.
 
-# Vaaliteemoistani
+# Vaaliteemoistani lyhyesti
 
 Rovaniemi on elinvoimainen korkeakoulukaupunki, joka elää koronapandemian jälkeistä murrosaikaa, mikä näkyy matkailun räjähdysmäisenä kasvuna. Moni meistä pohtii ihan aiheesta, että millainen tulevaisuuden Rovaniemi mahtaa olla ja kenen ehdoilla sitä rakennetaan.
 
