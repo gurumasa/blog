@@ -41,7 +41,7 @@ Huomioithan alaviitteet, joissa huomioita käännöksestä. Olen itse vastuussa 
 
 Vapautta rakastava ihminen...
 
-1. vaatii itselleen ja antaa muille kaikille ihmisille kuuluvan kunnioituksen, mutta ei vaadi itselleen erityistä kunnioitusta tai titteliä, eikä vuorostaan anna muille erityistä kunnioitusta heidän herruuden, vaurauden, voiman, vaikutusvallan tai edes vaatetuksen tähden, vaan ainoastaan heidän rehellisyyden ja ansioiden mukaan; ei nöyryytä itseään muiden ihmisten (*emberfia*[^1]) edessä, eikä puhuttele tai tervehdi muita alistuvalla tavalla.
+1. vaatii itselleen ja antaa muille kaikille ihmisille kuuluvan kunnioituksen, mutta ei vaadi itselleen erityistä kunnioitusta tai titteliä, eikä vuorostaan anna muille erityistä kunnioitusta heidän herruuden, vaurauden, voiman, vaikutusvallan tai edes vaatetuksen tähden, vaan ainoastaan heidän rehellisyyden ja ansioiden mukaan; ei nöyristele muiden ihmisten (*emberfia*[^1]) edessä, eikä puhuttele tai tervehdi muita alentavasti.
 
 2. näkee itsensä palvelijana työssään, herrana vapaa-ajallaan ja omassa kodissaan, sekä vastustaa kaikkia, jotka palveluksessaan tai työssään pitävät itseään herrana ja ylivertaisena, joka kohtelee muita palvelijoinaan tai alempiarvoisinaan.
 
