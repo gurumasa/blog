@@ -2,8 +2,6 @@
 main:
   - title: "Etusivu"
     url: /
-  - title: "Kuntavaalit"
-    url: /vaalit/
   - title: "Blogi"
     url: /blog/
   - title: "Kirjoituksiani"
